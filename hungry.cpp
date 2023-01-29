@@ -2,12 +2,12 @@
 using namespace std;
 int main()
 {
-    char hungry,yes;
-    cout<<"Are you hungry?";
-        cin>>hugry;
-    if(hungry==yes)
+    int pizza;
+    cout<<"How many pizza slices you ate?";
+        cin>>pizza;
+    if(pizza==1)
     {
-        cout<<"eat samosa";
+        cout<<"eat more";
     }
     else{
         cout<<"do your homework";
